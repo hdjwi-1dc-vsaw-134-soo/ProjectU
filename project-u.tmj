@@ -732,7 +732,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"belleveu-1.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/project-u\/project-u---belleveu-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -749,7 +749,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"edison-innovation.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/project-u\/project-u---edison-innovation"
                         }],
                  "rotation":0,
                  "type":"area",

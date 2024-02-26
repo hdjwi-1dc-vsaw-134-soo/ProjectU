@@ -274,7 +274,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"belleveu-2.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/project-u\/project-u---belleveu-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -291,7 +291,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"project-u.tmj#entry-from-belleveu"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/project-u\/project-u#entry-from-belleveu"
                         }],
                  "rotation":0,
                  "type":"area",
