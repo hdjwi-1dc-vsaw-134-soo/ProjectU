@@ -7776,7 +7776,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "belleveu-1.tmj#entry-from-second-floor"
+              "value": "https://play.workadventu.re/@/workspacesky/project-u/project-u---belleveu-1#entry-from-second-floor"
             }
           ],
           "rotation": 0,
@@ -7798,7 +7798,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "belleveu-2-chunk-1-9578fb90.png",
+      "image": "belleveu-2-chunk-1-c9f630fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7914,7 +7914,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "belleveu-2-chunk-2-9578fb90.png",
+      "image": "belleveu-2-chunk-2-c9f630fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7929,7 +7929,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "belleveu-2-chunk-3-9578fb90.png",
+      "image": "belleveu-2-chunk-3-c9f630fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7944,7 +7944,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "belleveu-2-chunk-4-9578fb90.png",
+      "image": "belleveu-2-chunk-4-c9f630fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7959,7 +7959,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "belleveu-2-chunk-5-9578fb90.png",
+      "image": "belleveu-2-chunk-5-c9f630fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7974,7 +7974,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "belleveu-2-chunk-6-9578fb90.png",
+      "image": "belleveu-2-chunk-6-c9f630fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7989,7 +7989,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "belleveu-2-chunk-7-9578fb90.png",
+      "image": "belleveu-2-chunk-7-c9f630fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8004,7 +8004,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "belleveu-2-chunk-8-9578fb90.png",
+      "image": "belleveu-2-chunk-8-c9f630fa.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8019,7 +8019,7 @@
     {
       "columns": 3,
       "firstgid": 2049,
-      "image": "belleveu-2-chunk-9-9578fb90.png",
+      "image": "belleveu-2-chunk-9-c9f630fa.png",
       "imageheight": 96,
       "imagewidth": 96,
       "margin": 0,
