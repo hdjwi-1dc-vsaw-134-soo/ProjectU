@@ -7798,7 +7798,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "belleveu-2-chunk-1-c9f630fa.png",
+      "image": "belleveu-2-chunk-1-bd0a7ba5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7914,7 +7914,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "belleveu-2-chunk-2-c9f630fa.png",
+      "image": "belleveu-2-chunk-2-bd0a7ba5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7929,7 +7929,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "belleveu-2-chunk-3-c9f630fa.png",
+      "image": "belleveu-2-chunk-3-bd0a7ba5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7944,7 +7944,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "belleveu-2-chunk-4-c9f630fa.png",
+      "image": "belleveu-2-chunk-4-bd0a7ba5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7959,7 +7959,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "belleveu-2-chunk-5-c9f630fa.png",
+      "image": "belleveu-2-chunk-5-bd0a7ba5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7974,7 +7974,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "belleveu-2-chunk-6-c9f630fa.png",
+      "image": "belleveu-2-chunk-6-bd0a7ba5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7989,7 +7989,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "belleveu-2-chunk-7-c9f630fa.png",
+      "image": "belleveu-2-chunk-7-bd0a7ba5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8004,7 +8004,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "belleveu-2-chunk-8-c9f630fa.png",
+      "image": "belleveu-2-chunk-8-bd0a7ba5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8019,7 +8019,7 @@
     {
       "columns": 3,
       "firstgid": 2049,
-      "image": "belleveu-2-chunk-9-c9f630fa.png",
+      "image": "belleveu-2-chunk-9-bd0a7ba5.png",
       "imageheight": 96,
       "imagewidth": 96,
       "margin": 0,
@@ -8044,6 +8044,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Project U is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Project U maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",
